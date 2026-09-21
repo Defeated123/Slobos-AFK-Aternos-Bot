@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Kali Bund",
+    "username": "Kali_Bund",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular Bund",
-        "I'm Bund",
-        "I like to play with Bund!"
+        "I'm Bund"
       ]
     },
     "chat-log": true,
