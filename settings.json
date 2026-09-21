@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "BUND_MC.aternos.me",
+    "port": 38698,
     "version": "",
     "try-creative": false
   },
