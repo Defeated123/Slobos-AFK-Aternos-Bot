@@ -8,7 +8,7 @@
   "server": {
     "ip": "BUND_MC.aternos.me",
     "port": 38698,
-    "version": "",
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
